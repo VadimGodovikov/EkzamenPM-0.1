@@ -1,0 +1,10 @@
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\bin\Debug\src.exe.config
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\bin\Debug\src.exe
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\bin\Debug\src.pdb
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\obj\Debug\src.csprojResolveAssemblyReference.cache
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\obj\Debug\src.Form1.resources
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\obj\Debug\src.Properties.Resources.resources
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\obj\Debug\src.csproj.GenerateResource.Cache
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\obj\Debug\src.csproj.CoreCompileInputs.cache
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\obj\Debug\src.exe
+C:\Users\stu-pkspk220\Desktop\Годовиков Вадим\src\src\obj\Debug\src.pdb

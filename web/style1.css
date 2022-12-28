@@ -1,0 +1,28 @@
+﻿body {
+    background-image: url("fon1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+}
+
+body p {
+    width: 400px;
+    border: 3px solid black;
+    padding: 3%;
+    font-family: Monotype Corsiva;
+    font-size: 24px;
+    background-color: rgb(255, 181, 228);
+    margin-left: 30vw;
+}
+
+.zadimg {
+    float: left;
+    margin-right: 10vw
+}
+
+.header {
+    font-family: Monotype Corsiva;
+    font-size: 24px;
+    text-align: center;
+}

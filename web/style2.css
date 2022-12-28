@@ -1,0 +1,31 @@
+﻿body {
+    background-image: url("fon2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+}
+
+body p {
+    float: left;
+    width: 400px;
+    border: 3px solid black;
+    padding: 3%;
+    font-family: Arial;
+    font-size: 24px;
+    background-color: #ffc800;
+    margin-left: 5vw;
+    outline: solid 6px #888;
+}
+
+.zadimg {
+    width: 300px;
+    float: right;
+    vertical-align: central;
+}
+
+.header {
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+}
